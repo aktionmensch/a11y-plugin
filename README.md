@@ -25,7 +25,7 @@ The sign language and audio description icon were made by [Font Awesome](https:/
 
 This Plugin is sponsored by [Aktion Mensch e.V.](https://www.aktion-mensch.de)\
 License: [MIT](https://mediaelement.mit-license.org/)\
-Author: @danielheene
+Author: [@danielheene](https://github.com/danielheene)
 
 ---
 
@@ -57,4 +57,4 @@ Das Gebärdensprache- und Audio-Deskriptions-Icon stammen von [Font Awesome](htt
 
 Dieses Plugin wurde gesponsert von [Aktion Mensch e.V.](https://www.aktion-mensch.de)\
 Lizenz: [MIT](https://mediaelement.mit-license.org/)\
-Autor: @danielheene
+Autor: [@danielheene](https://github.com/danielheene)
